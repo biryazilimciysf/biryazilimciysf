@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @biryazilimciysf
 - 👀 I’m interested in coding,science,sport,technology
 - 🌱 I’m currently learning python, c# , c , android studio , packet tracer
-- 💞️ I’m looking to collaborate on app development , ML , AI and Game Development
+- 💞️ I’m looking to collaborate on app development , ML , AI , Game Development and App Development
 - 📫 How to reach me ysferdgn1453@gmail.com
 
 <!---
